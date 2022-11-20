@@ -1,0 +1,68 @@
+h2{
+    color: red;
+}
+
+.first-div{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+}
+
+.first-div:hover{
+    background: orange;
+    cursor: pointer;
+    transition: .5s;
+}
+
+ul li a {
+    text-decoration: none;
+
+}
+
+.header-menu li:nth-child(1) a{
+    color: rgb(47, 0, 255);
+}
+.header-menu li:nth-child(2) a{
+    color: rgb(255, 0, 204);
+}
+.header-menu li:nth-child(3) a{
+    color: rgb(0, 255, 34);
+}
+.header-menu li:nth-child(4) a{
+    color: rgb(255, 64, 0);
+}
+.header-menu li:nth-child(5) a{
+    color: rgb(255, 242, 0);
+}
+.header-menu li:nth-child(6) a{
+    color: rgb(19, 233, 180);
+}
+.header-menu li:nth-child(7) a{
+    color: rgb(28, 176, 213);
+}
+
+.footer-menu li:nth-child(1) a{
+    color: rgb(47, 255, 0);
+ }
+.footer-menu li:nth-child(2) a{
+    color: rgb(0, 21, 255);
+ }
+.footer-menu li:nth-child(3) a{
+    color: rgb(255, 0, 38);
+ }
+.footer-menu li:nth-child(4) a{
+    color: rgb(0, 238, 255);
+ }
+.footer-menu li:nth-child(5) a{
+    color: rgb(221, 255, 0);
+ }
+.footer-menu li:nth-child(6) a{
+    color: rgb(255, 0, 255);
+ }
+.footer-menu li:nth-child(7) a{
+    color: rgb(255, 38, 0);
+ }
+
+ p{
+    color: blueviolet;
+ }
